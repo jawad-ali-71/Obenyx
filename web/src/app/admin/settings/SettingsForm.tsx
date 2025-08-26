@@ -243,7 +243,7 @@ export function SettingsForm() {
       />
       <Checkbox
         label="Anonymous Users"
-        sublabel="If set, users will not be required to sign in to use Onyx."
+        sublabel="If set, users will not be required to sign in to use Obify."
         checked={settings.anonymous_user_enabled}
         onChange={(e) =>
           handleToggleSettingsField("anonymous_user_enabled", e.target.checked)

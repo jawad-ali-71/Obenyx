@@ -38,7 +38,7 @@
     "path": "bots",
     "pageTitle": "Slack Bots",
     "options": {
-      "paragraphText": "Setup Slack bots that connect to Onyx. Once setup, you will be able to ask questions to Onyx directly from Slack. Additionally, you can:"
+      "paragraphText": "Setup Slack bots that connect to Obify. Once setup, you will be able to ask questions to Obify directly from Slack. Additionally, you can:"
     }
   },
   {
